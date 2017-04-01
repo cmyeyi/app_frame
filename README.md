@@ -1,5 +1,5 @@
-## Model-View-Controller 结构  
-经典MVC模式，自己研究一下
+##经典MVC模式，自己研究一下
+Model-View-Controller 结构
 LeanCloud作为后端，网络框架+图片框架，一起组成了一个普通App最基础的部分。
 可以参考本项目框架实现自己app
 最好自己去申请个LeanCloud或者Bmob的账号应用，两个平台的Restful-API由于是一样的，所以可以随意切换
